@@ -1,0 +1,4 @@
+#skac-wrapper {margin:0 0 50px;}
+.topic-info-comments a.busy i {background: url(../img/preloader.gif);}
+.text a.link-dotted {text-decoration: none;}
+.skac-cut-loading {margin: 5px 0; background: url(../img/preloader.gif) no-repeat center; height: 11px; }

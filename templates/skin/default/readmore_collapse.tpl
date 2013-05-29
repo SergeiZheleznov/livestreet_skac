@@ -1,0 +1,2 @@
+<br /><br />
+<a href="#" class="link-dotted" onclick="ls.skac.getShortText({$iTopicId},$(this)); return false;" title="{$aLang.plugin.skac.topic_read_more}">{$aLang.plugin.skac.topic_read_more_collapse}</a>
