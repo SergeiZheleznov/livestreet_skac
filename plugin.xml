@@ -2,14 +2,12 @@
 <plugin>
     <name>
         <lang name="default">Skac. Коментарии в ленте блогов</lang>
-        <lang name="russian">Skac. Коментарии в ленте блогов</lang>
     </name>
     <author>
-        <lang name="default">skif</lang>
-        <lang name="russian">skif</lang>
+        <lang name="default">Sergey Zheleznov</lang>
     </author>
-    <homepage>http://livestreet.ru/blog/addons/14534.html</homepage>
-    <version>1.1.1 test</version>
+    <homepage>sksdes@gmail.com</homepage>
+    <version>1.1.1</version>
     <requires>
         <livestreet>1.0.0</livestreet>
         <plugins>
@@ -17,6 +15,5 @@
     </requires>
     <description>
         <lang name="default">Плагин позволяет коментировать топики прямо из ленты, не открывая сам топик</lang>
-        <lang name="russian">Плагин позволяет коментировать топики прямо из ленты, не открывая сам топик</lang>
     </description>
 </plugin>
